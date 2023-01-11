@@ -1,0 +1,1246 @@
+1673114187463	geckodriver	INFO	Listening on 127.0.0.1:51167
+1673114187978	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51168" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofile8HCblO"
+1673114190802	Marionette	INFO	Marionette enabled
+1673114191045	Marionette	INFO	Listening on port 51176
+Read port: 51176
+2023-01-07 14:56:31.530 plugin-container[58520:2501085] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 14:56:31.530 plugin-container[58520:2501085] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 14:56:31.800 plugin-container[58520:2501085] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 14:56:31.800 plugin-container[58520:2501085] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 14:56:31.802 plugin-container[58520:2501089] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 14:56:31.802 plugin-container[58520:2501089] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 51176
+WebDriver BiDi listening on ws://127.0.0.1:51168
+1673114192966	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofile8HCblO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51168/devtools/browser/9e63344a-9147-423b-a9b3-dcfdf6e1e113
+1673114214081	Marionette	INFO	Stopped listening on port 51176
+1673114460374	geckodriver	INFO	Listening on 127.0.0.1:51705
+1673114460892	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51706" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileSfLOXP"
+1673114462665	Marionette	INFO	Marionette enabled
+1673114463011	Marionette	INFO	Listening on port 51729
+Read port: 51729
+2023-01-07 15:01:03.499 plugin-container[58791:2503786] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:01:03.500 plugin-container[58791:2503786] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 15:01:03.966 plugin-container[58791:2503786] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:01:03.966 plugin-container[58791:2503786] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 15:01:03.968 plugin-container[58791:2503781] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:01:03.968 plugin-container[58791:2503781] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 51729
+WebDriver BiDi listening on ws://127.0.0.1:51706
+1673114465027	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileSfLOXP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51706/devtools/browser/cb1d08f3-ef67-492b-8956-19eb5662c291
+1673114498041	Marionette	INFO	Stopped listening on port 51729
+1673114574464	geckodriver	INFO	Listening on 127.0.0.1:52480
+1673114574979	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52481" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofilecrRCkV"
+1673114576354	Marionette	INFO	Marionette enabled
+2023-01-07 15:02:56.392 plugin-container[58945:2505778] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:02:56.392 plugin-container[58945:2505778] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673114576434	Marionette	INFO	Listening on port 52500
+2023-01-07 15:02:56.529 plugin-container[58945:2505778] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:02:56.529 plugin-container[58945:2505778] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 15:02:56.529 plugin-container[58945:2505801] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:02:56.529 plugin-container[58945:2505801] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 52500
+WebDriver BiDi listening on ws://127.0.0.1:52481
+1673114576951	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofilecrRCkV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52481/devtools/browser/e307b23d-7579-41f3-878e-2edecbe5dd53
+2023-01-07 18:03:11.856 plugin-container[58973:2506312] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:03:11.857 plugin-container[58973:2506312] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 18:03:11.867 plugin-container[58973:2506312] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:03:11.867 plugin-container[58973:2506312] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 18:03:11.868 plugin-container[58973:2506330] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:03:11.868 plugin-container[58973:2506330] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+1673114730458	geckodriver	INFO	Listening on 127.0.0.1:53395
+1673114730986	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53396" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofilehYg3dr"
+1673114732933	Marionette	INFO	Marionette enabled
+1673114733036	Marionette	INFO	Listening on port 53423
+Read port: 53423
+2023-01-07 15:05:33.420 plugin-container[59129:2507837] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:05:33.421 plugin-container[59129:2507837] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 15:05:33.712 plugin-container[59129:2507837] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:05:33.712 plugin-container[59129:2507837] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 15:05:33.727 plugin-container[59129:2507861] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:05:33.727 plugin-container[59129:2507861] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673114733937	Marionette	INFO	Stopped listening on port 52500
+Read port: 53423
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Read port: 53423
+WebDriver BiDi listening on ws://127.0.0.1:53396
+1673114736047	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofilehYg3dr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53396/devtools/browser/79b12a95-9d46-4c0f-b900-9fee231056bb
+2023-01-07 18:05:52.021 plugin-container[59161:2508384] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:05:52.021 plugin-container[59161:2508384] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 18:05:52.029 plugin-container[59161:2508384] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:05:52.029 plugin-container[59161:2508384] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 18:05:52.030 plugin-container[59161:2508396] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:05:52.030 plugin-container[59161:2508396] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673114774295	Marionette	INFO	Stopped listening on port 53423
+1673114802162	geckodriver	INFO	Listening on 127.0.0.1:53933
+1673114802184	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53934" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileNdylFq"
+2023-01-07 15:06:43.102 plugin-container[59217:2509076] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:06:43.103 plugin-container[59217:2509076] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 15:06:43.161 plugin-container[59217:2509076] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:06:43.162 plugin-container[59217:2509076] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 15:06:43.162 plugin-container[59217:2509084] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:06:43.162 plugin-container[59217:2509084] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673114803264	Marionette	INFO	Marionette enabled
+1673114803426	Marionette	INFO	Listening on port 53943
+Read port: 53943
+WebDriver BiDi listening on ws://127.0.0.1:53934
+Read port: 53943
+1673114804764	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileNdylFq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53934/devtools/browser/42b78755-0ab2-48f7-95a9-b35484090df8
+2023-01-07 18:06:58.228 plugin-container[59237:2509543] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:06:58.229 plugin-container[59237:2509543] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 18:06:58.279 plugin-container[59237:2509543] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:06:58.279 plugin-container[59237:2509543] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 18:06:58.288 plugin-container[59237:2509561] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:06:58.288 plugin-container[59237:2509561] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+1673114969448	geckodriver	INFO	Listening on 127.0.0.1:54841
+1673114970060	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54842" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileaLed4I"
+1673114971769	Marionette	INFO	Marionette enabled
+2023-01-07 15:09:31.837 plugin-container[59392:2511299] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:09:31.838 plugin-container[59392:2511299] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673114971953	Marionette	INFO	Listening on port 54861
+Read port: 54861
+2023-01-07 15:09:32.218 plugin-container[59392:2511299] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:09:32.218 plugin-container[59392:2511299] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 15:09:32.245 plugin-container[59392:2511351] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:09:32.245 plugin-container[59392:2511351] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 54861
+WebDriver BiDi listening on ws://127.0.0.1:54842
+Read port: 54861
+1673114975332	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileaLed4I/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 761))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 415))
+1673114981343	Marionette	INFO	Stopped listening on port 53943
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+DevTools listening on ws://127.0.0.1:54842/devtools/browser/7ed5e652-fb2b-4eb1-be1a-e1701e6b6055
+2023-01-07 18:09:57.668 plugin-container[59425:2511930] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:09:57.669 plugin-container[59425:2511930] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 18:09:57.674 plugin-container[59425:2511930] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:09:57.674 plugin-container[59425:2511930] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 18:09:57.674 plugin-container[59425:2511940] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:09:57.674 plugin-container[59425:2511940] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+1673115062279	geckodriver	INFO	Listening on 127.0.0.1:55418
+1673115062302	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55419" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileTXUL69"
+1673115063596	Marionette	INFO	Marionette enabled
+2023-01-07 15:11:03.673 plugin-container[59503:2512664] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:11:03.673 plugin-container[59503:2512664] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673115063745	Marionette	INFO	Listening on port 55440
+Read port: 55440
+2023-01-07 15:11:03.916 plugin-container[59503:2512664] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:11:03.917 plugin-container[59503:2512664] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 15:11:03.918 plugin-container[59503:2512662] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:11:03.918 plugin-container[59503:2512662] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 55440
+WebDriver BiDi listening on ws://127.0.0.1:55419
+1673115066387	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileTXUL69/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55419/devtools/browser/16068121-d396-4c97-9e8b-f20511e18adf
+2023-01-07 18:11:20.238 plugin-container[59529:2513196] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:11:20.240 plugin-container[59529:2513196] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 18:11:20.341 plugin-container[59529:2513196] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:11:20.341 plugin-container[59529:2513196] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 18:11:20.343 plugin-container[59529:2513205] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:11:20.343 plugin-container[59529:2513205] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673115092840	Marionette	INFO	Stopped listening on port 55440
+1673115094133	Marionette	INFO	Stopped listening on port 54861
+1673115589447	geckodriver	INFO	Listening on 127.0.0.1:57730
+1673115589994	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57731" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofilejpCRWq"
+2023-01-07 15:19:51.450 plugin-container[60007:2517400] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:19:51.450 plugin-container[60007:2517400] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 15:19:51.465 plugin-container[60007:2517400] nil host used in call to allowsSpecificHTTPSCertificateForHost
+1673115591465	Marionette	INFO	Marionette enabled
+2023-01-07 15:19:51.465 plugin-container[60007:2517400] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 15:19:51.469 plugin-container[60007:2517430] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:19:51.469 plugin-container[60007:2517430] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673115591587	Marionette	INFO	Listening on port 57750
+Read port: 57750
+Read port: 57750
+WebDriver BiDi listening on ws://127.0.0.1:57731
+1673115593652	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofilejpCRWq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57731/devtools/browser/3c1a7e74-60e2-4980-a65f-927b7c8ae8a6
+2023-01-07 18:20:08.011 plugin-container[60035:2517917] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:20:08.013 plugin-container[60035:2517917] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 18:20:08.025 plugin-container[60035:2517917] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:20:08.025 plugin-container[60035:2517917] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 18:20:08.026 plugin-container[60035:2517920] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:20:08.026 plugin-container[60035:2517920] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+1673115919044	geckodriver	INFO	Listening on 127.0.0.1:59178
+1673115919063	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59179" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofile4ei6mN"
+1673115920778	Marionette	INFO	Marionette enabled
+2023-01-07 15:25:20.859 plugin-container[60313:2520626] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:25:20.860 plugin-container[60313:2520626] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 15:25:20.867 plugin-container[60313:2520626] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:25:20.867 plugin-container[60313:2520626] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 15:25:20.868 plugin-container[60313:2520646] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:25:20.868 plugin-container[60313:2520646] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673115920875	Marionette	INFO	Listening on port 59196
+Read port: 59196
+WebDriver BiDi listening on ws://127.0.0.1:59179
+1673115921856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofile4ei6mN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59179/devtools/browser/551c3e1d-c01a-4331-a940-224cde827b1f
+2023-01-07 18:25:37.324 plugin-container[60335:2521080] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:25:37.327 plugin-container[60335:2521080] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 18:25:37.335 plugin-container[60335:2521080] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:25:37.336 plugin-container[60335:2521080] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 18:25:37.338 plugin-container[60335:2521099] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:25:37.338 plugin-container[60335:2521099] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673116166996	Marionette	INFO	Stopped listening on port 59196
+1673116169685	Marionette	INFO	Stopped listening on port 57750
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673116179194	geckodriver	INFO	Listening on 127.0.0.1:60443
+1673116179715	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60444" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofilef4Dwmy"
+2023-01-07 15:29:41.127 plugin-container[60565:2524151] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:29:41.127 plugin-container[60565:2524151] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673116181134	Marionette	INFO	Marionette enabled
+1673116181215	Marionette	INFO	Listening on port 60459
+Read port: 60459
+2023-01-07 15:29:41.400 plugin-container[60565:2524151] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:29:41.401 plugin-container[60565:2524151] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 15:29:41.402 plugin-container[60565:2524146] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:29:41.402 plugin-container[60565:2524146] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:60444
+1673116181861	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofilef4Dwmy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60444/devtools/browser/b38a0830-70ac-41fd-92fe-e25e86be313c
+2023-01-07 18:29:58.606 plugin-container[60586:2524668] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:29:58.607 plugin-container[60586:2524668] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 18:29:58.613 plugin-container[60586:2524668] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:29:58.613 plugin-container[60586:2524668] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 18:29:58.614 plugin-container[60586:2524675] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:29:58.614 plugin-container[60586:2524675] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673116315634	Marionette	INFO	Stopped listening on port 60459
+1673116394278	geckodriver	INFO	Listening on 127.0.0.1:61461
+1673116394789	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61462" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileVQZh13"
+1673116396474	Marionette	INFO	Marionette enabled
+2023-01-07 15:33:16.481 plugin-container[60784:2526667] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:33:16.482 plugin-container[60784:2526667] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 15:33:16.490 plugin-container[60784:2526667] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:33:16.491 plugin-container[60784:2526667] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 15:33:16.494 plugin-container[60784:2526689] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:33:16.494 plugin-container[60784:2526689] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673116396620	Marionette	INFO	Listening on port 61481
+Read port: 61481
+WebDriver BiDi listening on ws://127.0.0.1:61462
+1673116397510	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileVQZh13/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61462/devtools/browser/9d052e85-693c-47b5-819e-47fa497dbf36
+2023-01-07 18:33:23.500 plugin-container[60796:2526975] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:33:23.501 plugin-container[60796:2526975] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 18:33:23.508 plugin-container[60796:2526975] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:33:23.508 plugin-container[60796:2526975] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 18:33:23.509 plugin-container[60796:2526985] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:33:23.509 plugin-container[60796:2526985] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673116491706	geckodriver	INFO	Listening on 127.0.0.1:61924
+1673116492230	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61925" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofilep6ZBnL"
+1673116493598	Marionette	INFO	Marionette enabled
+1673116493676	Marionette	INFO	Listening on port 61940
+2023-01-07 15:34:53.683 plugin-container[60886:2528058] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:34:53.683 plugin-container[60886:2528058] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 61940
+2023-01-07 15:34:53.710 plugin-container[60886:2528058] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:34:53.710 plugin-container[60886:2528058] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 15:34:53.711 plugin-container[60886:2528074] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:34:53.711 plugin-container[60886:2528074] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:61925
+1673116494358	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofilep6ZBnL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61925/devtools/browser/e53009da-07ce-4573-ba8f-cf6970fae3a5
+2023-01-07 18:34:59.696 plugin-container[60896:2528379] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:34:59.697 plugin-container[60896:2528379] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 18:34:59.703 plugin-container[60896:2528379] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:34:59.703 plugin-container[60896:2528379] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 18:34:59.704 plugin-container[60896:2528386] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:34:59.704 plugin-container[60896:2528386] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673116636314	Marionette	INFO	Stopped listening on port 61940
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+1673117442633	geckodriver	INFO	Listening on 127.0.0.1:49434
+1673117443151	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49435" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofilerxMUr9"
+1673117445197	Marionette	INFO	Marionette enabled
+1673117445255	Marionette	INFO	Listening on port 49454
+2023-01-07 15:50:45.284 plugin-container[61705:2535702] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:50:45.285 plugin-container[61705:2535702] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 49454
+2023-01-07 15:50:45.460 plugin-container[61705:2535702] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:50:45.461 plugin-container[61705:2535702] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 15:50:45.461 plugin-container[61705:2535692] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:50:45.462 plugin-container[61705:2535692] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:49435
+1673117445790	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofilerxMUr9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49435/devtools/browser/4b347d21-65d5-48d8-a503-b57f232aa8cb
+2023-01-07 18:50:52.770 plugin-container[61724:2536055] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:50:52.771 plugin-container[61724:2536055] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 18:50:52.786 plugin-container[61724:2536055] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:50:52.786 plugin-container[61724:2536055] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 18:50:52.787 plugin-container[61724:2536064] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:50:52.787 plugin-container[61724:2536064] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673117493977	Marionette	INFO	Stopped listening on port 49454
+1673117496815	Marionette	INFO	Stopped listening on port 61481
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673117508945	geckodriver	INFO	Listening on 127.0.0.1:49775
+1673117508968	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49776" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileNjB9Lp"
+1673117510431	Marionette	INFO	Marionette enabled
+2023-01-07 15:51:50.458 plugin-container[61785:2536827] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:51:50.458 plugin-container[61785:2536827] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 15:51:50.464 plugin-container[61785:2536827] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:51:50.464 plugin-container[61785:2536827] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 15:51:50.464 plugin-container[61785:2536834] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:51:50.465 plugin-container[61785:2536834] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673117510515	Marionette	INFO	Listening on port 49789
+Read port: 49789
+WebDriver BiDi listening on ws://127.0.0.1:49776
+Read port: 49789
+1673117511982	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileNjB9Lp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49776/devtools/browser/4c21574e-cb2c-4090-8a8f-715396985fbf
+2023-01-07 18:51:56.326 plugin-container[61797:2537084] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:51:56.326 plugin-container[61797:2537084] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 18:51:56.334 plugin-container[61797:2537084] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:51:56.334 plugin-container[61797:2537084] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 18:51:56.335 plugin-container[61797:2537103] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:51:56.335 plugin-container[61797:2537103] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+1673117543855	Marionette	INFO	Stopped listening on port 49789
+1673117550865	geckodriver	INFO	Listening on 127.0.0.1:50016
+1673117550879	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50017" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileOF92JC"
+2023-01-07 15:52:32.456 plugin-container[61841:2537609] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:52:32.457 plugin-container[61841:2537609] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 15:52:32.468 plugin-container[61841:2537609] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:52:32.468 plugin-container[61841:2537609] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 15:52:32.469 plugin-container[61841:2537615] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:52:32.469 plugin-container[61841:2537615] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673117552571	Marionette	INFO	Marionette enabled
+1673117552662	Marionette	INFO	Listening on port 50030
+Read port: 50030
+WebDriver BiDi listening on ws://127.0.0.1:50017
+1673117553250	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileOF92JC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50017/devtools/browser/36f43332-1423-46e9-93ac-73334af0392c
+2023-01-07 18:52:38.140 plugin-container[61850:2537959] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:52:38.140 plugin-container[61850:2537959] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 18:52:38.147 plugin-container[61850:2537959] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:52:38.147 plugin-container[61850:2537959] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 18:52:38.147 plugin-container[61850:2537970] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:52:38.147 plugin-container[61850:2537970] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673117609995	Marionette	INFO	Stopped listening on port 50030
+1673117624494	geckodriver	INFO	Listening on 127.0.0.1:50380
+1673117624506	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50381" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileLGEvnp"
+1673117625794	Marionette	INFO	Marionette enabled
+2023-01-07 15:53:45.857 plugin-container[61927:2538928] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:53:45.858 plugin-container[61927:2538928] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 15:53:45.864 plugin-container[61927:2538928] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:53:45.864 plugin-container[61927:2538928] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 15:53:45.865 plugin-container[61927:2538947] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:53:45.866 plugin-container[61927:2538947] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673117626011	Marionette	INFO	Listening on port 50395
+Read port: 50395
+WebDriver BiDi listening on ws://127.0.0.1:50381
+1673117627034	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileLGEvnp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50381/devtools/browser/0b8bc231-a21f-4a38-9940-79ca4e8eb086
+2023-01-07 18:53:52.726 plugin-container[61938:2539228] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:53:52.726 plugin-container[61938:2539228] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 18:53:52.731 plugin-container[61938:2539228] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:53:52.731 plugin-container[61938:2539228] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 18:53:52.731 plugin-container[61938:2539241] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:53:52.731 plugin-container[61938:2539241] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673117679027	Marionette	INFO	Stopped listening on port 50395
+1673117734016	geckodriver	INFO	Listening on 127.0.0.1:50893
+1673117734040	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50894" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileySeZkN"
+2023-01-07 15:55:35.544 plugin-container[62038:2540372] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:55:35.544 plugin-container[62038:2540372] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 15:55:35.557 plugin-container[62038:2540372] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:55:35.557 plugin-container[62038:2540372] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 15:55:35.558 plugin-container[62038:2540373] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:55:35.558 plugin-container[62038:2540373] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673117735591	Marionette	INFO	Marionette enabled
+1673117735655	Marionette	INFO	Listening on port 50907
+Read port: 50907
+WebDriver BiDi listening on ws://127.0.0.1:50894
+1673117736433	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileySeZkN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50894/devtools/browser/93efdace-c02a-4d59-ba13-8047a3838e60
+2023-01-07 18:55:41.584 plugin-container[62048:2540715] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:55:41.584 plugin-container[62048:2540715] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 18:55:41.593 plugin-container[62048:2540715] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:55:41.593 plugin-container[62048:2540715] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 18:55:41.594 plugin-container[62048:2540736] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:55:41.594 plugin-container[62048:2540736] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+1673117763019	Marionette	INFO	Stopped listening on port 50907
+1673117772478	geckodriver	INFO	Listening on 127.0.0.1:51124
+1673117772506	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51125" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileOgk1kH"
+2023-01-07 15:56:13.846 plugin-container[62093:2541236] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:56:13.847 plugin-container[62093:2541236] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 15:56:13.964 plugin-container[62093:2541236] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:56:13.964 plugin-container[62093:2541236] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 15:56:13.965 plugin-container[62093:2541238] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:56:13.965 plugin-container[62093:2541238] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673117773992	Marionette	INFO	Marionette enabled
+1673117774069	Marionette	INFO	Listening on port 51139
+Read port: 51139
+WebDriver BiDi listening on ws://127.0.0.1:51125
+1673117774955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileOgk1kH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51125/devtools/browser/2862cc51-143e-431f-a14a-d841f1d8e5d0
+2023-01-07 18:56:20.295 plugin-container[62103:2541513] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:56:20.295 plugin-container[62103:2541513] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 18:56:20.303 plugin-container[62103:2541513] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:56:20.303 plugin-container[62103:2541513] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 18:56:20.304 plugin-container[62103:2541524] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:56:20.304 plugin-container[62103:2541524] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+1673117814105	geckodriver	INFO	Listening on 127.0.0.1:51374
+1673117814125	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51375" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileZyfZWO"
+1673117815409	Marionette	INFO	Marionette enabled
+2023-01-07 15:56:55.488 plugin-container[62143:2541994] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:56:55.489 plugin-container[62143:2541994] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673117815507	Marionette	INFO	Listening on port 51388
+2023-01-07 15:56:55.539 plugin-container[62143:2541994] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:56:55.539 plugin-container[62143:2541994] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 15:56:55.540 plugin-container[62143:2541979] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 15:56:55.540 plugin-container[62143:2541979] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 51388
+WebDriver BiDi listening on ws://127.0.0.1:51375
+1673117816529	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileZyfZWO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51375/devtools/browser/cb393f7d-c2a1-44af-9c9b-91335b9c499b
+2023-01-07 18:57:02.300 plugin-container[62158:2542314] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:57:02.300 plugin-container[62158:2542314] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 18:57:02.308 plugin-container[62158:2542314] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:57:02.308 plugin-container[62158:2542314] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 18:57:02.308 plugin-container[62158:2542336] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 18:57:02.308 plugin-container[62158:2542336] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673117826685	Marionette	INFO	Stopped listening on port 51139
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+1673118048021	Marionette	INFO	Stopped listening on port 51388
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673118053826	geckodriver	INFO	Listening on 127.0.0.1:52409
+1673118054335	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52410" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofilen8EvFf"
+1673118055596	Marionette	INFO	Marionette enabled
+2023-01-07 16:00:55.607 plugin-container[62387:2544864] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:00:55.608 plugin-container[62387:2544864] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 16:00:55.658 plugin-container[62387:2544864] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:00:55.659 plugin-container[62387:2544864] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 16:00:55.659 plugin-container[62387:2544862] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:00:55.659 plugin-container[62387:2544862] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673118055726	Marionette	INFO	Listening on port 52429
+Read port: 52429
+WebDriver BiDi listening on ws://127.0.0.1:52410
+1673118056420	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofilen8EvFf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52410/devtools/browser/9bc815c6-4117-47fb-bfdb-e2cfd9822ede
+2023-01-07 19:01:01.375 plugin-container[62398:2545164] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:01:01.375 plugin-container[62398:2545164] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:01:01.382 plugin-container[62398:2545164] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:01:01.382 plugin-container[62398:2545164] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:01:01.382 plugin-container[62398:2545174] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:01:01.382 plugin-container[62398:2545174] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+1673118156045	Marionette	INFO	Stopped listening on port 52429
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofilen8EvFf/protections.sqlite
+1673118160125	geckodriver	INFO	Listening on 127.0.0.1:52919
+1673118160144	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52920" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileNzuIC8"
+1673118161322	Marionette	INFO	Marionette enabled
+2023-01-07 16:02:41.329 plugin-container[62496:2546241] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:02:41.330 plugin-container[62496:2546241] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 16:02:41.362 plugin-container[62496:2546241] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:02:41.362 plugin-container[62496:2546241] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 16:02:41.363 plugin-container[62496:2546256] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:02:41.363 plugin-container[62496:2546256] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673118161447	Marionette	INFO	Listening on port 52929
+Read port: 52929
+WebDriver BiDi listening on ws://127.0.0.1:52920
+Read port: 52929
+1673118162845	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileNzuIC8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52920/devtools/browser/c1021569-625a-4dc6-bc60-45bb890d584b
+2023-01-07 19:02:48.737 plugin-container[62507:2546556] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:02:48.737 plugin-container[62507:2546556] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:02:48.745 plugin-container[62507:2546556] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:02:48.745 plugin-container[62507:2546556] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:02:48.747 plugin-container[62507:2546566] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:02:48.747 plugin-container[62507:2546566] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+1673118422712	Marionette	INFO	Stopped listening on port 52929
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileNzuIC8/protections.sqlite
+1673118428648	geckodriver	INFO	Listening on 127.0.0.1:54068
+1673118429194	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54069" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofile6Y7Ncy"
+1673118430582	Marionette	INFO	Marionette enabled
+2023-01-07 16:07:10.712 plugin-container[62907:2550558] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:07:10.713 plugin-container[62907:2550558] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 16:07:10.721 plugin-container[62907:2550558] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:07:10.721 plugin-container[62907:2550558] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 16:07:10.722 plugin-container[62907:2550577] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:07:10.722 plugin-container[62907:2550577] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673118431169	Marionette	INFO	Listening on port 54092
+Read port: 54092
+WebDriver BiDi listening on ws://127.0.0.1:54069
+1673118431409	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofile6Y7Ncy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54069/devtools/browser/e7dbdb88-276b-4487-bd9c-abb0c546c005
+2023-01-07 19:07:17.064 plugin-container[62920:2550902] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:07:17.065 plugin-container[62920:2550902] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:07:17.072 plugin-container[62920:2550902] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:07:17.072 plugin-container[62920:2550902] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:07:17.072 plugin-container[62920:2550920] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:07:17.072 plugin-container[62920:2550920] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673118519236	Marionette	INFO	Stopped listening on port 54092
+1673118540820	geckodriver	INFO	Listening on 127.0.0.1:54597
+1673118541354	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54598" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileOAk1eD"
+1673118542767	Marionette	INFO	Marionette enabled
+2023-01-07 16:09:02.769 plugin-container[63032:2552281] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:09:02.770 plugin-container[63032:2552281] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 16:09:02.779 plugin-container[63032:2552281] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:09:02.779 plugin-container[63032:2552281] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 16:09:02.779 plugin-container[63032:2552299] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:09:02.780 plugin-container[63032:2552299] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673118542880	Marionette	INFO	Listening on port 54613
+Read port: 54613
+WebDriver BiDi listening on ws://127.0.0.1:54598
+1673118543673	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileOAk1eD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54598/devtools/browser/e157869d-db2e-4cad-8483-3c5508313aa1
+2023-01-07 19:09:08.285 plugin-container[63042:2552567] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:09:08.286 plugin-container[63042:2552567] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:09:08.299 plugin-container[63042:2552567] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:09:08.300 plugin-container[63042:2552567] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:09:08.300 plugin-container[63042:2552565] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:09:08.300 plugin-container[63042:2552565] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673118818296	Marionette	INFO	Stopped listening on port 54613
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileOAk1eD/protections.sqlite
+1673118820872	geckodriver	INFO	Listening on 127.0.0.1:55795
+1673118821393	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55796" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileyAX9ks"
+1673118822430	Marionette	INFO	Marionette enabled
+2023-01-07 16:13:42.630 plugin-container[63311:2555290] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:13:42.634 plugin-container[63311:2555290] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673118822710	Marionette	INFO	Listening on port 55811
+2023-01-07 16:13:42.724 plugin-container[63311:2555290] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:13:42.725 plugin-container[63311:2555290] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 16:13:42.725 plugin-container[63311:2555304] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:13:42.725 plugin-container[63311:2555304] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 55811
+WebDriver BiDi listening on ws://127.0.0.1:55796
+Read port: 55811
+1673118824004	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileyAX9ks/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55796/devtools/browser/f85f2fe7-fddc-462f-8e44-5165da26bdc4
+2023-01-07 19:13:49.130 plugin-container[63321:2555578] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:13:49.130 plugin-container[63321:2555578] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:13:49.144 plugin-container[63321:2555578] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:13:49.144 plugin-container[63321:2555578] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:13:49.161 plugin-container[63321:2555583] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:13:49.161 plugin-container[63321:2555583] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673118937819	Marionette	INFO	Stopped listening on port 55811
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673118940647	geckodriver	INFO	Listening on 127.0.0.1:56353
+1673118940662	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56354" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileZ7r6Lg"
+2023-01-07 16:15:42.283 plugin-container[63441:2556855] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:15:42.283 plugin-container[63441:2556855] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 16:15:42.292 plugin-container[63441:2556855] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:15:42.292 plugin-container[63441:2556855] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 16:15:42.292 plugin-container[63441:2556859] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:15:42.292 plugin-container[63441:2556859] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673118942414	Marionette	INFO	Marionette enabled
+1673118942571	Marionette	INFO	Listening on port 56371
+Read port: 56371
+WebDriver BiDi listening on ws://127.0.0.1:56354
+1673118943565	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileZ7r6Lg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56354/devtools/browser/9e19b4ae-2d88-49ed-9d4e-8a7a24e4933a
+2023-01-07 19:15:48.891 plugin-container[63451:2557110] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:15:48.892 plugin-container[63451:2557110] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:15:48.899 plugin-container[63451:2557110] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:15:48.899 plugin-container[63451:2557110] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:15:48.899 plugin-container[63451:2557125] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:15:48.899 plugin-container[63451:2557125] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+1673118992075	geckodriver	INFO	Listening on 127.0.0.1:56634
+1673118992101	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56635" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileUCu3DU"
+2023-01-07 16:16:33.346 plugin-container[63502:2557639] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:16:33.348 plugin-container[63502:2557639] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673118993351	Marionette	INFO	Marionette enabled
+2023-01-07 16:16:33.356 plugin-container[63502:2557639] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:16:33.357 plugin-container[63502:2557639] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 16:16:33.357 plugin-container[63502:2557660] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:16:33.357 plugin-container[63502:2557660] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673118993447	Marionette	INFO	Listening on port 56644
+Read port: 56644
+WebDriver BiDi listening on ws://127.0.0.1:56635
+Read port: 56644
+1673118994836	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1673118994995	Marionette	INFO	Stopped listening on port 56371
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileUCu3DU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56635/devtools/browser/eb96f65c-4bbe-4345-a676-ebb8f1276a56
+2023-01-07 19:16:41.070 plugin-container[63515:2557925] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:16:41.070 plugin-container[63515:2557925] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:16:41.078 plugin-container[63515:2557925] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:16:41.078 plugin-container[63515:2557925] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:16:41.080 plugin-container[63515:2557937] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:16:41.080 plugin-container[63515:2557937] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673119083792	Marionette	INFO	Stopped listening on port 56644
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 717: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1673119087046	geckodriver	INFO	Listening on 127.0.0.1:57087
+1673119087062	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57088" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofilezem0O0"
+1673119088317	Marionette	INFO	Marionette enabled
+1673119088394	Marionette	INFO	Listening on port 57101
+Read port: 57101
+2023-01-07 16:18:08.475 plugin-container[63600:2558810] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:18:08.475 plugin-container[63600:2558810] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 16:18:08.483 plugin-container[63600:2558810] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:18:08.483 plugin-container[63600:2558810] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 16:18:08.484 plugin-container[63600:2558817] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:18:08.484 plugin-container[63600:2558817] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:57088
+Read port: 57101
+1673119089594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofilezem0O0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57088/devtools/browser/0526abc6-5a47-4278-b669-c33a5e5c6773
+2023-01-07 19:18:14.338 plugin-container[63615:2559106] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:18:14.338 plugin-container[63615:2559106] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:18:14.344 plugin-container[63615:2559106] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:18:14.344 plugin-container[63615:2559106] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:18:14.345 plugin-container[63615:2559117] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:18:14.345 plugin-container[63615:2559117] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673119145790	geckodriver	INFO	Listening on 127.0.0.1:57394
+1673119145810	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57395" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileuvpyyg"
+1673119147505	Marionette	INFO	Marionette enabled
+2023-01-07 16:19:07.534 plugin-container[63675:2559771] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:19:07.535 plugin-container[63675:2559771] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 16:19:07.559 plugin-container[63675:2559771] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:19:07.560 plugin-container[63675:2559771] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 16:19:07.561 plugin-container[63675:2559776] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:19:07.561 plugin-container[63675:2559776] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673119147631	Marionette	INFO	Listening on port 57412
+Read port: 57412
+WebDriver BiDi listening on ws://127.0.0.1:57395
+1673119148155	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileuvpyyg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57395/devtools/browser/01058804-be41-4f4c-ba49-d22030d7943f
+2023-01-07 19:19:13.031 plugin-container[63684:2560215] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:19:13.032 plugin-container[63684:2560215] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:19:13.043 plugin-container[63684:2560215] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:19:13.043 plugin-container[63684:2560215] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:19:13.049 plugin-container[63684:2560226] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:19:13.049 plugin-container[63684:2560226] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673119240177	geckodriver	INFO	Listening on 127.0.0.1:57848
+1673119240696	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57849" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileShQDS2"
+2023-01-07 16:20:41.888 plugin-container[63785:2561447] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:20:41.888 plugin-container[63785:2561447] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673119241950	Marionette	INFO	Marionette enabled
+1673119242061	Marionette	INFO	Listening on port 57864
+Read port: 57864
+2023-01-07 16:20:42.213 plugin-container[63785:2561447] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:20:42.213 plugin-container[63785:2561447] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 16:20:42.259 plugin-container[63785:2561445] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:20:42.259 plugin-container[63785:2561445] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 57864
+WebDriver BiDi listening on ws://127.0.0.1:57849
+1673119243902	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileShQDS2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57849/devtools/browser/ad977c43-cb5e-484c-9460-99b3279bf46c
+2023-01-07 19:20:49.458 plugin-container[63796:2561829] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:20:49.458 plugin-container[63796:2561829] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:20:49.467 plugin-container[63796:2561829] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:20:49.468 plugin-container[63796:2561829] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:20:49.468 plugin-container[63796:2561840] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:20:49.468 plugin-container[63796:2561840] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673119295603	Marionette	INFO	Stopped listening on port 57412
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673119299260	Marionette	INFO	Stopped listening on port 57101
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 717: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1673119352142	geckodriver	INFO	Listening on 127.0.0.1:58372
+1673119352160	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58373" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileuntyMk"
+2023-01-07 16:22:33.557 plugin-container[63901:2563165] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:22:33.558 plugin-container[63901:2563165] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 16:22:33.566 plugin-container[63901:2563165] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:22:33.566 plugin-container[63901:2563165] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 16:22:33.567 plugin-container[63901:2563167] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:22:33.567 plugin-container[63901:2563167] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673119353592	Marionette	INFO	Marionette enabled
+1673119353656	Marionette	INFO	Listening on port 58386
+Read port: 58386
+WebDriver BiDi listening on ws://127.0.0.1:58373
+1673119354034	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileuntyMk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58373/devtools/browser/27bf5e08-d96f-43f2-b51f-da3b1436fa68
+2023-01-07 19:22:38.887 plugin-container[63910:2563423] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:22:38.887 plugin-container[63910:2563423] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:22:38.894 plugin-container[63910:2563423] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:22:38.894 plugin-container[63910:2563423] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:22:38.895 plugin-container[63910:2563436] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:22:38.895 plugin-container[63910:2563436] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+1673119416053	geckodriver	INFO	Listening on 127.0.0.1:58705
+1673119416080	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58706" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileUExnMl"
+2023-01-07 16:23:37.143 plugin-container[63976:2564131] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:23:37.144 plugin-container[63976:2564131] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 16:23:37.300 plugin-container[63976:2564131] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:23:37.300 plugin-container[63976:2564131] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 16:23:37.300 plugin-container[63976:2564127] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:23:37.300 plugin-container[63976:2564127] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673119417565	Marionette	INFO	Marionette enabled
+1673119417628	Marionette	INFO	Listening on port 58719
+Read port: 58719
+WebDriver BiDi listening on ws://127.0.0.1:58706
+1673119418545	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileUExnMl/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58706/devtools/browser/9b0b9e8e-b830-42a6-bab8-42e711ea7009
+2023-01-07 19:23:44.211 plugin-container[63989:2564476] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:23:44.214 plugin-container[63989:2564476] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:23:44.225 plugin-container[63989:2564476] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:23:44.225 plugin-container[63989:2564476] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:23:44.228 plugin-container[63989:2564488] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:23:44.228 plugin-container[63989:2564488] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673119426206	Marionette	INFO	Stopped listening on port 57864
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+1673119584429	Marionette	INFO	Stopped listening on port 58719
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileUExnMl/protections.sqlite
+1673119586553	Marionette	INFO	Stopped listening on port 58386
+1673119590735	geckodriver	INFO	Listening on 127.0.0.1:59482
+1673119590756	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59483" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileOjaOtq"
+2023-01-07 16:26:32.254 plugin-container[64150:2566098] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:26:32.254 plugin-container[64150:2566098] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 16:26:32.265 plugin-container[64150:2566098] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:26:32.265 plugin-container[64150:2566098] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 16:26:32.265 plugin-container[64150:2566095] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:26:32.266 plugin-container[64150:2566095] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673119592348	Marionette	INFO	Marionette enabled
+1673119592431	Marionette	INFO	Listening on port 59496
+Read port: 59496
+WebDriver BiDi listening on ws://127.0.0.1:59483
+1673119593376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileOjaOtq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59483/devtools/browser/e4917908-0635-471e-97c6-0e0b0513b1ec
+2023-01-07 19:26:38.212 plugin-container[64159:2566415] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:26:38.212 plugin-container[64159:2566415] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:26:38.296 plugin-container[64159:2566415] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:26:38.296 plugin-container[64159:2566415] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:26:38.297 plugin-container[64159:2566410] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:26:38.297 plugin-container[64159:2566410] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+1673119747132	Marionette	INFO	Stopped listening on port 59496
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileOjaOtq/protections.sqlite
+1673119755601	geckodriver	INFO	Listening on 127.0.0.1:60229
+1673119755618	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60230" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofile5oaHan"
+1673119756863	Marionette	INFO	Marionette enabled
+1673119756943	Marionette	INFO	Listening on port 60239
+Read port: 60239
+2023-01-07 16:29:16.998 plugin-container[64313:2568089] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:29:16.999 plugin-container[64313:2568089] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 16:29:17.010 plugin-container[64313:2568089] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:29:17.010 plugin-container[64313:2568089] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 16:29:17.010 plugin-container[64313:2568116] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:29:17.010 plugin-container[64313:2568116] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:60230
+Read port: 60239
+1673119758355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofile5oaHan/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60230/devtools/browser/0efd01d1-7f81-4723-85d0-4e38241e5886
+2023-01-07 19:29:23.200 plugin-container[64323:2568418] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:29:23.201 plugin-container[64323:2568418] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:29:23.208 plugin-container[64323:2568418] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:29:23.208 plugin-container[64323:2568418] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:29:23.209 plugin-container[64323:2568431] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:29:23.209 plugin-container[64323:2568431] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+1673119974038	Marionette	INFO	Stopped listening on port 60239
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofile5oaHan/protections.sqlite
+1673119976684	geckodriver	INFO	Listening on 127.0.0.1:61195
+1673119977203	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61196" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofilebG0GSg"
+2023-01-07 16:32:58.622 plugin-container[64532:2570527] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:32:58.623 plugin-container[64532:2570527] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673119978642	Marionette	INFO	Marionette enabled
+2023-01-07 16:32:58.724 plugin-container[64532:2570527] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:32:58.724 plugin-container[64532:2570527] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 16:32:58.724 plugin-container[64532:2570529] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:32:58.724 plugin-container[64532:2570529] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673119978731	Marionette	INFO	Listening on port 61211
+Read port: 61211
+WebDriver BiDi listening on ws://127.0.0.1:61196
+1673119979692	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofilebG0GSg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61196/devtools/browser/15ca6f6e-bbd3-47bf-a4e4-ac469faef3f5
+2023-01-07 19:33:04.332 plugin-container[64542:2570832] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:33:04.332 plugin-container[64542:2570832] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:33:04.339 plugin-container[64542:2570832] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:33:04.339 plugin-container[64542:2570832] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:33:04.339 plugin-container[64542:2570837] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:33:04.339 plugin-container[64542:2570837] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+1673120117049	geckodriver	INFO	Listening on 127.0.0.1:61841
+1673120117076	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61842" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileEdd5Jh"
+2023-01-07 16:35:17.882 plugin-container[64666:2571993] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:35:17.883 plugin-container[64666:2571993] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673120117889	Marionette	INFO	Marionette enabled
+2023-01-07 16:35:17.894 plugin-container[64666:2571993] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:35:17.894 plugin-container[64666:2571993] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 16:35:17.895 plugin-container[64666:2571989] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:35:17.895 plugin-container[64666:2571989] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673120118028	Marionette	INFO	Listening on port 61851
+Read port: 61851
+Read port: 61851
+WebDriver BiDi listening on ws://127.0.0.1:61842
+1673120119898	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1673120121216	Marionette	INFO	Stopped listening on port 61211
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofilebG0GSg/protections.sqlite
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileEdd5Jh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61842/devtools/browser/b844a39b-bcf2-463d-a142-42f8ab600c89
+2023-01-07 19:35:26.396 plugin-container[64678:2572415] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:35:26.397 plugin-container[64678:2572415] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:35:26.404 plugin-container[64678:2572415] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:35:26.404 plugin-container[64678:2572415] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:35:26.404 plugin-container[64678:2572435] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:35:26.404 plugin-container[64678:2572435] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673120310916	Marionette	INFO	Stopped listening on port 61851
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileEdd5Jh/protections.sqlite
+1673120327128	geckodriver	INFO	Listening on 127.0.0.1:62775
+1673120327144	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62776" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofiletIwMXS"
+2023-01-07 16:38:48.253 plugin-container[64874:2574308] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:38:48.253 plugin-container[64874:2574308] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 16:38:48.353 plugin-container[64874:2574308] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:38:48.353 plugin-container[64874:2574308] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 16:38:48.355 plugin-container[64874:2574314] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:38:48.355 plugin-container[64874:2574314] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673120328534	Marionette	INFO	Marionette enabled
+1673120328667	Marionette	INFO	Listening on port 62789
+Read port: 62789
+WebDriver BiDi listening on ws://127.0.0.1:62776
+1673120329571	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofiletIwMXS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62776/devtools/browser/b2d083da-1712-4244-b9af-d88c10ce0437
+2023-01-07 19:38:55.106 plugin-container[64885:2574679] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:38:55.106 plugin-container[64885:2574679] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:38:55.114 plugin-container[64885:2574679] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:38:55.114 plugin-container[64885:2574679] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:38:55.115 plugin-container[64885:2574694] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:38:55.115 plugin-container[64885:2574694] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673120547054	Marionette	INFO	Stopped listening on port 62789
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofiletIwMXS/protections.sqlite
+1673120599371	geckodriver	INFO	Listening on 127.0.0.1:63958
+1673120599896	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63959" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofilepYYFq4"
+1673120601723	Marionette	INFO	Marionette enabled
+2023-01-07 16:43:21.755 plugin-container[65130:2576964] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:43:21.755 plugin-container[65130:2576964] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673120601803	Marionette	INFO	Listening on port 63978
+Read port: 63978
+2023-01-07 16:43:22.020 plugin-container[65130:2576964] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:43:22.020 plugin-container[65130:2576964] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 16:43:22.020 plugin-container[65130:2576996] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:43:22.020 plugin-container[65130:2576996] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:63959
+1673120602394	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofilepYYFq4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63959/devtools/browser/f932b711-0987-4bbc-8956-f7f14fa428e0
+2023-01-07 19:43:27.644 plugin-container[65139:2577277] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:43:27.645 plugin-container[65139:2577277] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:43:27.649 plugin-container[65139:2577277] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:43:27.649 plugin-container[65139:2577277] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:43:27.649 plugin-container[65139:2577286] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:43:27.650 plugin-container[65139:2577286] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+1673120774044	geckodriver	INFO	Listening on 127.0.0.1:64753
+1673120774556	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64754" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileBHGtVH"
+2023-01-07 16:46:15.955 plugin-container[65304:2578962] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:46:16.081 plugin-container[65304:2578962] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 16:46:16.092 plugin-container[65304:2578962] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:46:16.092 plugin-container[65304:2578962] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 16:46:16.093 plugin-container[65304:2578964] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:46:16.093 plugin-container[65304:2578964] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1673120776136	Marionette	INFO	Marionette enabled
+1673120776224	Marionette	INFO	Listening on port 64769
+Read port: 64769
+WebDriver BiDi listening on ws://127.0.0.1:64754
+1673120776984	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileBHGtVH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64754/devtools/browser/9fd4858a-74c8-4709-b10c-1f6003d69481
+2023-01-07 19:46:22.338 plugin-container[65317:2579305] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:46:22.339 plugin-container[65317:2579305] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:46:22.346 plugin-container[65317:2579305] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:46:22.346 plugin-container[65317:2579305] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:46:22.347 plugin-container[65317:2579325] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:46:22.347 plugin-container[65317:2579325] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+1673121215733	Marionette	INFO	Stopped listening on port 64769
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 717: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1673121220143	Marionette	INFO	Stopped listening on port 63978
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofilepYYFq4/protections.sqlite
+1673121223152	geckodriver	INFO	Listening on 127.0.0.1:50354
+1673121223670	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50355" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofilenqiFjy"
+1673121224862	Marionette	INFO	Marionette enabled
+1673121224919	Marionette	INFO	Listening on port 50370
+2023-01-07 16:53:44.939 plugin-container[65716:2584253] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:53:44.939 plugin-container[65716:2584253] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 16:53:44.989 plugin-container[65716:2584253] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:53:44.989 plugin-container[65716:2584253] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 16:53:44.990 plugin-container[65716:2584273] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 16:53:44.990 plugin-container[65716:2584273] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 50370
+WebDriver BiDi listening on ws://127.0.0.1:50355
+1673121225350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofilenqiFjy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50355/devtools/browser/a28ac93e-fc9f-46f1-9463-6b61cf16300f
+2023-01-07 19:53:50.533 plugin-container[65727:2584595] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:53:50.533 plugin-container[65727:2584595] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:53:50.541 plugin-container[65727:2584595] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:53:50.541 plugin-container[65727:2584595] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 19:53:50.542 plugin-container[65727:2584610] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 19:53:50.542 plugin-container[65727:2584610] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+1673122559188	Marionette	INFO	Stopped listening on port 50370
+1673122565626	geckodriver	INFO	Listening on 127.0.0.1:51751
+1673122566278	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51752" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileZzb11c"
+1673122569587	Marionette	INFO	Marionette enabled
+1673122569879	Marionette	INFO	Listening on port 51787
+Read port: 51787
+2023-01-07 17:16:10.034 plugin-container[66137:2590067] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 17:16:10.037 plugin-container[66137:2590067] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 17:16:10.353 plugin-container[66137:2590067] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 17:16:10.353 plugin-container[66137:2590067] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 17:16:10.353 plugin-container[66137:2590071] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 17:16:10.353 plugin-container[66137:2590071] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:51752
+1673122570687	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4b/0q4zzvy134gfhyzbn8lkbq900000gn/T/rust_mozprofileZzb11c/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51752/devtools/browser/a01a47a8-fa75-49d8-8888-b95799fdfe8a
+2023-01-07 20:16:20.652 plugin-container[66152:2590593] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 20:16:20.653 plugin-container[66152:2590593] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 20:16:20.662 plugin-container[66152:2590593] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 20:16:20.662 plugin-container[66152:2590593] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-07 20:16:20.663 plugin-container[66152:2590613] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-07 20:16:20.663 plugin-container[66152:2590613] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ava.ampli.com.br."
+JavaScript error: https://ava.ampli.com.br/static/js/main.7bdc2365.chunk.js, line 1: TypeError: n(...) is null
+JavaScript error: https://ava.ampli.com.br/static/js/main.7bdc2365.chunk.js, line 1: TypeError: n(...) is null
+1673122916487	Marionette	INFO	Stopped listening on port 51787
